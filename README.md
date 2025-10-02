@@ -23,24 +23,6 @@ This repository contains **example code, exercises, and projects** that I create
 
 ---
 
-## 🗂️ Repository Structure  
-
-```plaintext
-CSharp-Zero-to-Hero/
-│
-├── Chapter01_HelloWorld/
-├── Chapter02_Basics/
-├── Chapter03_VariablesAndConstants/
-├── Chapter04_ControlStatements/
-├── Chapter05_Functions/
-├── Chapter06_ObjectOrientedProgramming/
-│   ├── Classes/
-│   ├── Inheritance/
-│   └── Polymorphism/
-└── Projects/
-
----
-
 ## ▶️ Watch the Series on YouTube
 
 Follow the full tutorial series here: 
@@ -66,3 +48,21 @@ This is a personal learning + teaching project, but feel free to:
 
 - 📺 YouTube: https://www.youtube.com/@jaythakur5186 
 - 💼 LinkedIn: https://www.linkedin.com/in/jay-thakur-66259361/
+---
+## 🗂️ Repository Structure  
+
+```plaintext
+CSharp-Zero-to-Hero/
+│
+├── Chapter01_HelloWorld/
+├── Chapter02_Basics/
+├── Chapter03_VariablesAndConstants/
+├── Chapter04_ControlStatements/
+├── Chapter05_Functions/
+├── Chapter06_ObjectOrientedProgramming/
+│   ├── Classes/
+│   ├── Inheritance/
+│   └── Polymorphism/
+└── Projects/
+
+---
