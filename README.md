@@ -25,6 +25,9 @@ This repository contains **example code, exercises, and projects** that I create
 
 ## 🗂️ Repository Structure  
 
+## 🗂️ Repository Structure  
+
+```plaintext
 CSharp-Zero-to-Hero/
 │
 ├── Chapter01_HelloWorld/
@@ -33,10 +36,11 @@ CSharp-Zero-to-Hero/
 ├── Chapter04_ControlStatements/
 ├── Chapter05_Functions/
 ├── Chapter06_ObjectOrientedProgramming/
-│ ├── Classes/
-│ ├── Inheritance/
-│ └── Polymorphism/
+│   ├── Classes/
+│   ├── Inheritance/
+│   └── Polymorphism/
 └── Projects/
+
 
 ---
 
