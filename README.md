@@ -40,24 +40,28 @@ CSharp-Zero-to-Hero/
 
 ---
 
-▶️ Watch the Series on YouTube
+## ▶️ Watch the Series on YouTube
 
-Follow the full tutorial series here: 👉 Dev Journey by JP - C# Zero to Hero https://www.youtube.com/watch?v=X9kTCma67zU&t=58s
+Follow the full tutorial series here: 
+- 👉 Dev Journey by JP - C# Zero to Hero https://www.youtube.com/watch?v=X9kTCma67zU&t=58s
+---
 
-🛠️ How to Use
+## 🛠️ How to Use
 
-Clone the repository:
-git clone https://github.com/your-username/csharp-zero-to-hero.git
+### Clone the repository:
+- git clone https://github.com/your-username/csharp-zero-to-hero.git
 
-Open the project in Visual Studio / VS Code.
-Explore each chapter and run the examples.
-🤝 Contributions
+- Open the project in Visual Studio / VS Code.
+- Explore each chapter and run the examples.
+---
+## 🤝 Contributions
 
 This is a personal learning + teaching project, but feel free to:
 
 - Open issues for corrections or suggestions.
 
-- Submit pull requests with improvements. 📬 Connect with Me
+- Submit pull requests with improvements. 
+## 📬 Connect with Me
 
 - 📺 YouTube: https://www.youtube.com/@jaythakur5186 
 - 💼 LinkedIn: https://www.linkedin.com/in/jay-thakur-66259361/
