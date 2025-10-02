@@ -25,8 +25,6 @@ This repository contains **example code, exercises, and projects** that I create
 
 ## 🗂️ Repository Structure  
 
-## 🗂️ Repository Structure  
-
 ```plaintext
 CSharp-Zero-to-Hero/
 │
@@ -40,7 +38,6 @@ CSharp-Zero-to-Hero/
 │   ├── Inheritance/
 │   └── Polymorphism/
 └── Projects/
-
 
 ---
 
