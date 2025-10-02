@@ -8,9 +8,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="Chapter02_Tool\" />
-    <Folder Include="Chapter01_Intro\" />
-  </ItemGroup>
-
 </Project>
