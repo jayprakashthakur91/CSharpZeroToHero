@@ -8,9 +8,12 @@ namespace CSharp_Zero_to_Hero.Chapter05_Identifier_DataType
 {
     public class Identifier
     {
-        public static void Main()
+        public Identifier()
         {
-            Console.WriteLine("identifier");
+            int employeeId= 2147483647;
+            long employeeIDLong = 2147483648L;
+            Console.WriteLine("sum"+ employeeId);
+            Console.WriteLine("sum" + employeeIDLong);
         }
     }
 }
